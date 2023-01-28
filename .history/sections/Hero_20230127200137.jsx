@@ -9,10 +9,11 @@ const Hero = () => (
   <section className={`${styles.yPaddings} sm:p1-16 p1-6`}>
     <motion.div
       variants={staggerContainer}
-      initial="hidden"
+      initial='hidden'
       whileInView="show"
-      viewport={{ once: false, amount: 0.25 }}
-    />
+      viewport={{once: false, amount}}>
+
+      </motion.div>
   </section>
 );
 

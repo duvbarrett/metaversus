@@ -11,8 +11,8 @@ const Hero = () => (
       variants={staggerContainer}
       initial="hidden"
       whileInView="show"
-      viewport={{ once: false, amount: 0.25 }}
-    />
+      viewport={{once: false, amount: 0.25} }
+      />
   </section>
 );
 
