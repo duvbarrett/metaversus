@@ -23,6 +23,6 @@ export const TitleText = ({ title, textStyles }) => (
     whileInView="show"
     className={`mt-[8px] font-bold md:text-[64px] text-[40px] text-white ${textStyles}`}
   >
-    {title}
+    {title}{/*  */}
   </motion.h2>
 );
