@@ -52,19 +52,19 @@ export const insights = [
     imgUrl: '/planet-06.png',
     title: 'The launch of the Metaverse makes Elon Musk fear the unlimited capabilities',
     subtitle:
-        'A world with endless evolution leaves those open-minded curious and those who despise AI in fear of the inevitable that is to come with Metaversus.',
+        'A world with endlessMagna etiam tempor orci eu lobortis elementum nibh tellus molestie. Diam maecenas sed enim ut sem viverra alique.',
   },
   {
     imgUrl: '/planet-07.png',
     title: '7 tips to easily master the madness of the Metaverse',
     subtitle:
-        'Those who dare enter the Metaverse enter an illusion of the mind, body, and soul where they are able to live vicariously a life they can only dream of ever having.',
+        'Vitae congue eu consequat ac felis donec. Et magnis dis parturient montes nascetur ridiculus mus. Convallis tellus id interdum',
   },
   {
     imgUrl: '/planet-08.png',
     title: 'With one platform you can explore the whole world virtually',
     subtitle:
-        'Forever evolving and learning, the virtual world is an endless possibility of doing what you want, being who you want, and living how you want.',
+        'Quam quisque id diam vel quam elementum. Viverra nam libero justo laoreet sit amet cursus sit. Mauris in aliquam sem',
   },
 ];
 

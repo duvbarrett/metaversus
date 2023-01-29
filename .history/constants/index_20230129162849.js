@@ -64,7 +64,7 @@ export const insights = [
     imgUrl: '/planet-08.png',
     title: 'With one platform you can explore the whole world virtually',
     subtitle:
-        'Forever evolving and learning, the virtual world is an endless possibility of doing what you want, being who you want, and living how you want.',
+        'Forever evolving and learning, the vQuam quisque id diam vel quam elementum. Viverra nam libero justo laoreet sit amet cursus sit. Mauris in aliquam sem',
   },
 ];
 
